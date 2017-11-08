@@ -1,2 +1,2 @@
 # hello-world
-hello world exercise 
+hello world exercise v2.0
